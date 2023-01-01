@@ -12,5 +12,5 @@ Like the HIWS, the LUR's wayfinding system uses a code system to denote signs. T
 ### Station codes
 The list of station codes is as follows:
 #### Lumea East Line
-**sk** Stonewall -K.
-**eh** Easthaven
+- **sk** Stonewall -K.
+- **eh** Easthaven
