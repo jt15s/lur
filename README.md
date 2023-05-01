@@ -11,9 +11,12 @@ Like the HIWS, the LUR's wayfinding system uses a code system to denote signs. T
 
 ### Station codes
 The list of station codes is as follows:
-#### Lumea East Line
 - **stk** Stonewall -K.
 - **eha** Easthaven
 - **oyn** Oyrdensai 
 - **pyb** Pykke Beach
 - **pab** Pure Azz Beach
+- **crv** Caravas
+- **bci** BTV City
+- **stc** St. Tiffany's Cross
+- **cwr** Lumea Central West Railway Station (referred to on signage as "Lumea Central West")
